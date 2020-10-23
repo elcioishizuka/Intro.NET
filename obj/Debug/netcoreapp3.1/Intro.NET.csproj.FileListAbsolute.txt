@@ -1,0 +1,13 @@
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\bin\Debug\netcoreapp3.1\Intro.NET.exe
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\bin\Debug\netcoreapp3.1\Intro.NET.deps.json
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\bin\Debug\netcoreapp3.1\Intro.NET.runtimeconfig.json
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\bin\Debug\netcoreapp3.1\Intro.NET.runtimeconfig.dev.json
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\bin\Debug\netcoreapp3.1\Intro.NET.dll
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\bin\Debug\netcoreapp3.1\Intro.NET.pdb
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\obj\Debug\netcoreapp3.1\Intro.NET.csprojAssemblyReference.cache
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\obj\Debug\netcoreapp3.1\Intro.NET.AssemblyInfoInputs.cache
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\obj\Debug\netcoreapp3.1\Intro.NET.AssemblyInfo.cs
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\obj\Debug\netcoreapp3.1\Intro.NET.csproj.CoreCompileInputs.cache
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\obj\Debug\netcoreapp3.1\Intro.NET.dll
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\obj\Debug\netcoreapp3.1\Intro.NET.pdb
+C:\Users\e_ish\Documents\Elcio\Projetos\.NET\Intro .NET\Intro.NET\obj\Debug\netcoreapp3.1\Intro.NET.genruntimeconfig.cache
