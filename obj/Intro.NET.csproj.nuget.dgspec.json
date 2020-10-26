@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro .NET\\Intro.NET\\Intro.NET.csproj": {}
+    "c:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro\\Intro.NET\\Intro.NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro .NET\\Intro.NET\\Intro.NET.csproj": {
+    "c:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro\\Intro.NET\\Intro.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro .NET\\Intro.NET\\Intro.NET.csproj",
+        "projectUniqueName": "c:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro\\Intro.NET\\Intro.NET.csproj",
         "projectName": "Intro.NET",
-        "projectPath": "C:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro .NET\\Intro.NET\\Intro.NET.csproj",
+        "projectPath": "c:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro\\Intro.NET\\Intro.NET.csproj",
         "packagesPath": "C:\\Users\\e_ish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro .NET\\Intro.NET\\obj\\",
+        "outputPath": "c:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro\\Intro.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\e_ish\\AppData\\Roaming\\NuGet\\NuGet.Config"

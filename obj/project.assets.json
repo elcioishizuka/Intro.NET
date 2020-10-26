@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro .NET\\Intro.NET\\Intro.NET.csproj",
+      "projectUniqueName": "C:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro\\Intro.NET\\Intro.NET.csproj",
       "projectName": "Intro.NET",
-      "projectPath": "c:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro .NET\\Intro.NET\\Intro.NET.csproj",
+      "projectPath": "C:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro\\Intro.NET\\Intro.NET.csproj",
       "packagesPath": "C:\\Users\\e_ish\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro .NET\\Intro.NET\\obj\\",
+      "outputPath": "C:\\Users\\e_ish\\Documents\\Elcio\\Projetos\\.NET\\Intro\\Intro.NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\e_ish\\AppData\\Roaming\\NuGet\\NuGet.Config"
