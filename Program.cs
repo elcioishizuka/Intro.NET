@@ -1,4 +1,5 @@
 ﻿using System;
+using Classes;
 
 namespace Intro.NET
 {
@@ -42,6 +43,30 @@ namespace Intro.NET
             {
                 Console.WriteLine($"O número tem que estar entre {byte.MinValue} e {byte.MaxValue}");
             }
+
+            
+            // Aprendizado em Programação Orientada a Objeto - Classes e Objetos
+            Carro carro1 = new Carro();
+            carro1.marca = "Ford";
+            carro1.modelo = "Ka";
+            carro1.anoFabricacao = 2001;
+            carro1.cor = "Preto";
+            carro1.peso = 1501.25;
+            carro1.chaveNoContato = true;
+            carro1.mostrarDados();
+            carro1.partirMotor();
+
+            Carro carro2 = new Carro();
+            carro2.marca = "Honda";
+            carro2.modelo = "Fit";
+            carro2.anoFabricacao = 2015;
+            carro2.cor = "Prata";
+            carro2.peso = 1890.36;
+            carro2.chaveNoContato = false;
+            carro2.mostrarDados();
+            carro2.partirMotor();          
+
+
         }
     }
 }
